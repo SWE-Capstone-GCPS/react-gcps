@@ -35,7 +35,7 @@ function App() {
     return () => {
       mapRef.current.remove();
     };
-  }, []); // The empty dependency array ensures this runs only once when the component mounts
+  }, []); 
 
   // Reset the map center and zoom
   const handleButtonClick = () => {
