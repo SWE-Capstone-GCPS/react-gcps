@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 
 Sarah commit
 Tyler commit
+Jeffrey commit
